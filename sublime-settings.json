@@ -1,0 +1,40 @@
+{
+    // The theme used and it's settings...
+    "theme": "Spacegray Eighties.sublime-theme",
+    "color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+    "spacegray_tabs_font_large": true,
+    "spacegray_sidebar_font_large": true,
+    "spacegray_sidebar_tree_large": true,
+    "spacegray_tabs_xlarge": true,
+
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+
+    "word_wrap": false,
+    "font_face": "Monaco",
+    "font_size": 12.5,
+
+    "caret_extra_width": 5,
+    "caret_style": "wide", 
+    "close_window_when_empty": true,
+    "copy_with_empty_selection": false,
+    "default_line_ending": "unix",
+    "margin": 0,
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true,
+    "use_tab_stops": true,
+    "draw_minimap_border": true,
+    "highlight_line": true,
+    "line_padding_top": 4,
+    "line_padding_bottom": 4,
+    "scroll_past_end": true,
+    "draw_indent_guides": true,
+    "auto_complete_delay": 100,
+    "auto_complete_commit_on_tab": true,
+    "scroll_speed": 3.0,
+    "create_window_at_startup": false,
+    "overlay_scroll_bars": "enabled"
+
+}
